@@ -53,3 +53,17 @@ Sample Superstore Dataset
 ## Author
 
 Aspiring Data Analyst
+
+## Project Screenshots
+
+### KPI Dashboard
+
+![KPI](Screenshots/KPI.png)
+
+### Regional Analysis
+
+![Region](Screenshots/Region.png)
+
+### Category Analysis
+
+![Category](Screenshots/Category.png)
