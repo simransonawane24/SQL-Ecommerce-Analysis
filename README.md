@@ -71,3 +71,20 @@ GitHub: https://github.com/simransonawane24
 ### Category Analysis
 
 ![Category](Screenshots/Category.png)
+
+## Business Questions
+
+1. Which region generates the highest sales?
+2. Which category is the most profitable?
+3. Which sub-categories are causing losses?
+4. How do discounts affect profitability?
+5. Which region has the best profit margin?
+
+## SQL Skills Demonstrated
+
+- Aggregate Functions
+- GROUP BY
+- ORDER BY
+- Business KPI Analysis
+- Profit Margin Calculation
+- Data Aggregation
