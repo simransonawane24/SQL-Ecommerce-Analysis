@@ -52,7 +52,10 @@ Sample Superstore Dataset
 
 ## Author
 
-Aspiring Data Analyst
+Simran Sonawane'
+
+LinkedIn: www.linkedin.com/in/simran-sonawane24
+GitHub: https://github.com/simransonawane24
 
 ## Project Screenshots
 
