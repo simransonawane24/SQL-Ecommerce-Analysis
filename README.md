@@ -72,6 +72,18 @@ GitHub: https://github.com/simransonawane24
 
 ![Category](Screenshots/Category.png)
 
+### Sub-Category Analysis
+
+![SubCategory](Screenshots/SubCategory.png)
+
+### Profit Margin Analysis
+
+![ProfitMargin](Screenshots/ProfitMargin.png)
+
+### Discount Analysis
+
+![Discount](Screenshots/Discount.png)
+
 ## Business Questions
 
 1. Which region generates the highest sales?
